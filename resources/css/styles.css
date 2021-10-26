@@ -37,7 +37,7 @@
     --font-medium: 500;
     --font-semi-bold: 600;
 
-    /*========== Margines Bottom ==========*/
+    /*========== Margin Bottoms ==========*/
     
     --mb-0-25: 0.25rem;
     --mb-0-5: 0.5rem;
@@ -90,6 +90,7 @@ body {
     font-size: var(--normal-font-size);
     background-color: var(--body-color);
     color: var(--text-color);
+    font-family: 'Poppins', sans-serif;
 }
 
 h1, h2, h3, h4 {
