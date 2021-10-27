@@ -121,12 +121,11 @@ let swiperTestimonial = new Swiper('.testimonial__container', {
       clickable: true,
       dynamicBullets: true,
     },
-
-    breakpoints {
+    breakpoints: {
         568:{
-            slidesPerView: 2
+            slidesPerView: 2,
         }
-    }
+    }   
     
   });
 
