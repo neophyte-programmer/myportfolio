@@ -136,6 +136,16 @@ img {
     height: auto;
 }
 
+button {
+    outline: none;
+    background: none;
+    border: none;
+    font-family: var(--body-font);
+    font-weight: var(--font-medium);
+    color: #fff;
+    cursor: pointer;
+}
+
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
     padding: 2rem 0 4rem;
