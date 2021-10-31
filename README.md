@@ -1,10 +1,10 @@
 # My Portfolio
 
 ## Overview
-
+This is my official online portfolio/website. The website includes a dark and night mode too.
 
 ## Experience
-
+I would say that this is the climax of most of the concepts I have studied in HTML, CSS and Javascript as this was a very challenging exercise for me. I did learn many new concepts and it was a stressful but fun experience. This might also just be the longest code I have written
 
 ## Resources 
 ### Made using 
