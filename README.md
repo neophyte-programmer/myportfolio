@@ -27,7 +27,7 @@ I would say that this is the climax of most of the concepts I have studied in HT
 </a> <br>
 
 ## Check It Out
-Live Site URL: [Live Site](nutifafasportfolio.netlify.app)
+Live Site URL: [Live Site](https://nutifafasportfolio.netlify.app)
 
 ## How It Looks
 ![](https://github.com/neophyte-programmer/myportfolio/blob/main/picture.png?raw=true)
