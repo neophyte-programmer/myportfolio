@@ -297,6 +297,10 @@ nav {
     row-gap: 1rem;
 }
 
+.bolt__font {
+    color: var(--first-color);
+}
+
 .home__social-icon {
     font-size: 1.25rem;
     color: var(--first-color);
